@@ -37,11 +37,7 @@ SustainHome is a comprehensive application designed to help individuals track th
 - `src/hooks`: Custom React hooks
 - `src/lib`: Utility functions
 
-## URL
 
-**URL**: https://lovable.dev/projects/25574986-b354-4e0c-9c1c-a09ef0064a3a
-
-## How can I edit this code?
 
 There are several ways of editing your application.
 
@@ -83,9 +79,6 @@ npm run dev
 - Click on "New codespace" to launch a new Codespace environment.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
-
-This project is built with:
 
 - Vite
 - TypeScript
